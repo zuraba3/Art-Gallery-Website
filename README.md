@@ -20,8 +20,8 @@ This is a solution to the [Art gallery website](https://www.frontendmentor.io/ch
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Art-Gallery-Website)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Art-Gallery-Website/)
 
 ## My process
 
